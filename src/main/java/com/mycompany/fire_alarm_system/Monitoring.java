@@ -806,7 +806,7 @@ String sid_0,sid_1,sid_2,sid_3,sid_4,sid_5,cid_0,cid_1,cid_2,cid_3,cid_4,cid_5,h
             {
                 flagmail++;
                 try {
-                Mail.sendEmail("iit2019096@iiita.ac.in"); // change your mail here
+                Mail.sendEmail("iit2020002@iiita.ac.in"); // change your mail here
             } catch (Exception ex) {
                 Logger.getLogger(Monitoring.class.getName()).log(Level.SEVERE, null, ex);
             }
